@@ -22,4 +22,5 @@
 .rodapie { 
     
     grid-area: rodapie;
+    height: calc(10vh + 50px);
 }
