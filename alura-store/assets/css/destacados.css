@@ -20,4 +20,18 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    grid-column-start: 4;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.destaques__secundario:nth-child(3){
+    background: url('../img/slack.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    grid-column-start: 4;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
 }
