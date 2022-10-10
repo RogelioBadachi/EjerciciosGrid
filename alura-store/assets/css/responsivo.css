@@ -6,9 +6,8 @@
         grid-row: none;
     }
 
-    .destaques__principal,  .destaques__categorias{
+    .destaques__principal, .destaques__categorias{
         grid-column: 1 / 5;
-        grid-row: 1 / 3;
     }
 
 }
