@@ -6,30 +6,21 @@
 }
 
 .destaques__principal{
-    background: url('../img/fortnite.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url('../img/fortnite.jpg') center / cover no-repeat;
     grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 3;
 }
 .destaques__secundario:nth-child(2){
-    background: url('../img/pubg.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url('../img/pubg.jpg') center / cover no-repeat;
     grid-column-start: 4;
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 2;
 }
 .destaques__secundario:nth-child(3){
-    background: url('../img/slack.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url('../img/slack.png') center / cover no-repeat;
     grid-column-start: 4;
     grid-column-end: 4;
     grid-row-start: 2;
